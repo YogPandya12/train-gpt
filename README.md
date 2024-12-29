@@ -12,7 +12,7 @@ This project demonstrates the reproduction of GPT-2, a decoder-only transformer 
      - `mlp` (feed-forward layers) for token-wise transformations.
 
 2. **MLP Implementation**:
-   - Components like `c_fc`, `c_proj`, and GELU activation were initialized for smoothing linear transformations.
+   - Components like `c_fc`, `c_proj`, and `GELU` activation were initialized for smoothing linear transformations.
 
 3. **Self-Attention Implementation**:
    - Multi-head attention initialized with `c_attn`, `c_head`, `c_proj`, and `c_embd`.
@@ -72,10 +72,14 @@ This project demonstrates the reproduction of GPT-2, a decoder-only transformer 
 - HellaSwag evaluation scores suggested that full training on 10B tokens could achieve results comparable to GPT-2.
 
 ## Screenshots and Logs
+### Step 40
+![Step 40](images/step%2040.png)
 
-1. **Training Progress**:
-   - [Step 240 Screenshot](step%20240.png): Intermediate training results.
-   - [Step 380 Screenshot](step%20380.png): Loss and token statistics at a later stage of training.
+### Step 240
+![Step 240](images/step%20240.png)
+
+### Step 380
+![Step 380](images/step%20380.png)
 
 2. **Logs**:
    - [Training Logs](log.txt): Includes sample outputs and HellaSwag evaluation results.
