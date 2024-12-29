@@ -488,8 +488,8 @@ raw_model = model.module if ddp else model    # always contain raw unwrapped mod
 
 max_lr = 6e-4
 min_lr = max_lr * 0.1
-warmup_steps = 91
-max_steps = 2500
+warmup_steps = 91     # adjust it in such a way that 365M tokens are used for the warmup steps
+max_steps = 2500      # adjust it in such a way that you train the model with 10B tokens to compete with the original GPT-2 model configurations.
 def get_lr(it):
     if it < warmup_steps:
         return min_lr * (it+1) / warmup_steps
