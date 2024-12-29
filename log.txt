@@ -1,0 +1,301 @@
+1ST PRINT - 20
+rank 1 sample 0: Hello, I'm a language model,,..,, the, of. the of, the,,,, of of of,,,,
+rank 1 sample 1: Hello, I'm a language model, of of,,,,. the.. the drastic, the, the,,... the.,
+rank 1 sample 2: Hello, I'm a language model,,,..,,, the the the,, of, the. the, the the the.,,
+rank 1 sample 3: Hello, I'm a language model, the,. the the the the,,,., of the.,,.,..,,.
+rank 0 sample 0: Hello, I'm a language model,,, drastic, the, to,,,,, the., to, the, and..,.
+rank 0 sample 1: Hello, I'm a language model, the for.,.,.. the,,..., and,, the,, drastic. and
+rank 0 sample 2: Hello, I'm a language model,..org,.,.,. the.. the the drastic.,..,,.,.
+rank 0 sample 3: Hello, I'm a language model,. the the the the the the the, of the, the,, the the,.,, the..
+
+2ND PRINT - 40
+rank 1 sample 0: Hello, I'm a language model,, the...,, and the.
+.,,,,, and and to. of,,
+rank 1 sample 1: Hello, I'm a language model, and and.. and. the the the, the in., and,,, the the. the the,
+rank 1 sample 2: Hello, I'm a language model,,,.,,..,.,,, and,. the the,.,.,,,
+rank 1 sample 3: Hello, I'm a language model,. and the the,.,,,. the, and... and the. the,,. the
+rank 0 sample 0: Hello, I'm a language model,,,-,.. of,...,. the. and. and, of the,, the
+rank 0 sample 1: Hello, I'm a language model,. in the. the. and, the...,,, of. a,,. in the of
+rank 0 sample 2: Hello, I'm a language model, the. to. the, the,. the the, the,
+,, the. of.,, the
+rank 0 sample 3: Hello, I'm a language model, the the. and,.,.. a,.,,,. of. the.., the the
+
+3RD PRINT - 60
+rank 1 sample 0: Hello, I'm a language model,....
+,, of the...
+.
+.
+-. and.
+.
+
+rank 1 sample 1: Hello, I'm a language model, and of the, a, and of of, the for, and of the, the of the and of the and
+rank 1 sample 2: Hello, I'm a language model,,,.
+, to,.,.,, of,..
+,..,...
+rank 1 sample 3: Hello, I'm a language model, the, and the.,, of the, and,., the,..
+ of the,, and
+rank 0 sample 0: Hello, I'm a language model,,,-,..-,.
+,., and, to, of, of the.
+ the
+rank 0 sample 1: Hello, I'm a language model, the for.
+ of the to,, the, and and the,.
+ to, the, for. of
+rank 0 sample 2: Hello, I'm a language model,., in, and a,,....
+. to.
+......
+
+rank 0 sample 3: Hello, I'm a language model,...,.,.,, a..,,,.,, and,,.
+
+4TH PRINT - 80
+rank 1 sample 0: Hello, I'm a language model, the of the, the, the. the. of the, the the the the of the to the of the the
+rank 1 sample 1: Hello, I'm a language model, a and the, of the. and, the. to the,.
+- the-.
+,, and
+rank 1 sample 2: Hello, I'm a language model, the the, and the a the,.
+-,.
+The of the.
+The.
+-,
+rank 1 sample 3: Hello, I'm a language model, and a.....
+The,, and and,, and to, and the.
+- and
+rank 0 sample 0: Hello, I'm a language model, the the is the, the and the the the the the the the the to the of the a of the the and
+rank 0 sample 1: Hello, I'm a language model, and-.
+, and to, the, and the of to a of the a, the, for, of
+rank 0 sample 2: Hello, I'm a language model,,. the, and to the the,,.,, and-.
+- the of the of the the
+rank 0 sample 3: Hello, I'm a language model, of the the and the, to the the a to the the the the the. the of the the, the of
+
+5TH PRINT - 100
+rank 1 sample 0: Hello, I'm a language model,.’ of, of.. the that and. The.
+- the’ with.’ of
+rank 1 sample 1: Hello, I'm a language model, with that.
+The. the not, of of’ of and of.
+ in the are, and in
+rank 1 sample 2: Hello, I'm a language model,.
+. The on with on of that of.
+-. The,,. The in of in..
+rank 1 sample 3: Hello, I'm a language model,,,,, of of of in and of the.. The,. This,. the and.
+,
+rank 0 sample 0: Hello, I'm a language model,.
+What. The of that the be on in. The of that with.’ to, that. This
+rank 0 sample 1: Hello, I'm a language model, of this,. the. This of of.
+. The in in, that with of.
+ on, in
+rank 0 sample 2: Hello, I'm a language model, and with on. the in.
+The, the that in of that of.
+-’ that to that
+rank 0 sample 3: Hello, I'm a language model,, and are with of of, to. This in. The in. The and. the with. The, with
+
+6TH PRINT - 120
+rank 1 sample 0: Hello, I'm a language model, and. The first the new time and that. This. The first is it. In this are a new is the
+rank 1 sample 1: Hello, I'm a language model, it to the first is the time. It, the way, the new.
+The day of to that, and
+rank 1 sample 2: Hello, I'm a language model, and the world. I that of a a first a time to the time of the way and a first, and the
+rank 1 sample 3: Hello, I'm a language model, the ‘-1. The day to the world. In a time. They.
+In a time, in
+rank 0 sample 0: Hello, I'm a language model, and the U, the time in the world that a way to the “The way, a first are the same
+rank 0 sample 1: Hello, I'm a language model, the other to the same, that in a, and the new other is, that and a.
+What to be
+rank 0 sample 2: Hello, I'm a language model, which in.
+In in the first. It is a ‘In a not that the new new is the same
+rank 0 sample 3: Hello, I'm a language model, a time that. The time is this.<|endoftext|>I.
+-
+The “In a time, in it
+
+7TH PRINT - 140
+rank 1 sample 0: Hello, I'm a language model, and a own, we can be been not not the time, and more are a more to help to use of the
+rank 1 sample 1: Hello, I'm a language model, you’s the new.“In the most a new way of the world of a child of the  
+rank 1 sample 2: Hello, I'm a language model, and the first and it was it.<|endoftext|>The same and more.
+In the, the “It is a
+rank 1 sample 3: Hello, I'm a language model, the new.
+The ‘What is a time, you’s in the first and the first. 
+rank 0 sample 0: Hello, I'm a language model, and the data, the first than you can see.
+The world’s in the new. They are an
+rank 0 sample 1: Hello, I'm a language model, the people of the same and other and other than the time, we is not in them to the world’ve
+rank 0 sample 2: Hello, I'm a language model, it is, and more as the other and not not to a own or the new. The same health is it was
+rank 0 sample 3: Hello, I'm a language model, a more to have a new or other and you may be the health is not you are not you are the people can
+
+8TH PRINT - 160
+rank 1 sample 0: Hello, I'm a language model, the own system of the other. It's time to the other, the own, as an more than the world,
+rank 1 sample 1: Hello, I'm a language model, a year, the own, but you have been the own, and is the world, with a small. It is
+rank 1 sample 2: Hello, I'm a language model, the time of a few.
+-1, the world and the same of the people.
+-year-up
+rank 1 sample 3: Hello, I'm a language model, but in this. The first of that, the time, they can be been not not to have been the world and
+rank 0 sample 0: Hello, I'm a language model, the time or the world of it's is that they are, it is that is, the first. If the same
+rank 0 sample 1: Hello, I'm a language model, and you have been a new way of it is the way that we need for them for a day, as it are
+rank 0 sample 2: Hello, I'm a language model, it is you are, we have to the world and you do, he is in the life and not have to do
+rank 0 sample 3: Hello, I'm a language model, but it is in a few or they are in one, and they are to do to have to be a person and
+
+9TH PRINT - 180
+rank 1 sample 0: Hello, I'm a language model, and is the body.
+-term.
+This is the time.
+- If your study is more than the
+rank 1 sample 1: Hello, I'm a language model, it.
+- 2, and other and a time is a few-s.
+How, there can also also
+rank 1 sample 2: Hello, I'm a language model, the other, and more likely to the same way of the world.
+A time.
+The body is a day
+rank 1 sample 3: Hello, I'm a language model, you. It will have that they may also have that you will have that you’s important.
+-  
+rank 0 sample 0: Hello, I'm a language model, the other the time, the health that is also, they will not than an important for the child, or the world
+rank 0 sample 1: Hello, I'm a language model, a child, the other people are the body.
+- very few%
+- "The child is one is more
+rank 0 sample 2: Hello, I'm a language model, and more time. It may be a time to do not have the study is a year, they need to be more
+rank 0 sample 3: Hello, I'm a language model, you are that we are the child to be more a new people can be the other people, they are the other health
+
+10TH PRINT - 200
+rank 1 sample 0: Hello, I'm a language model, a single week, they are a good of the information, but not be an important and if we have sure that you
+rank 1 sample 1: Hello, I'm a language model, and, and the children, but, but, it would be able to the children, we are also have sure of
+rank 1 sample 2: Hello, I'm a language model, the other example.
+|
+The body.
+- 1, the "" of a time.
+-
+
+rank 1 sample 3: Hello, I'm a language model, or not.
+-s
+-
+- "- The "-
+-
+- The
+-
+|
+rank 0 sample 0: Hello, I'm a language model, the other children, the time in the information is to the same day was used to make the way, as a way
+rank 0 sample 1: Hello, I'm a language model, it does not be the information about a few years, it. In the child has also a time, if you're
+rank 0 sample 2: Hello, I'm a language model, a few people, it will be a small years and a way of their child.
+-t)
+-s
+rank 0 sample 3: Hello, I'm a language model, or, you will not not a more important or it is the example, and a new and the information, it,
+
+11TH PRINT - 220
+rank 1 sample 0: Hello, I'm a language model, it can't be. You’re to your child’t, you know the world. It’
+rank 1 sample 1: Hello, I'm a language model, a number of a few years of an example. The new year, it was a new part of a number of the
+rank 1 sample 2: Hello, I'm a language model, and the most of the time. The best.
+The best of the first day.
+-based.
+-
+rank 1 sample 3: Hello, I'm a language model, we also is the way. I'll't be to be to the body. They’re the same time of
+rank 0 sample 0: Hello, I'm a language model, and the time. The first, in the best in the other of the following of one of that it in the two
+rank 0 sample 1: Hello, I'm a language model, the two-like a day (the year, the two. This, but also has a person, or in which
+rank 0 sample 2: Hello, I'm a language model, it was very good of one, and they’t not, to have been able to you are to know,
+rank 0 sample 3: Hello, I'm a language model, we will make up, it will need to your best to have no other things and to have to be able to make
+
+12TH PRINT - 240
+rank 1 sample 0: Hello, I'm a language model, I is I't want to be. And the idea of a way to see the same thing and I think that I
+rank 1 sample 1: Hello, I'm a language model, the story of the same time of it's book of his own. I’s book of, the book in
+rank 1 sample 2: Hello, I'm a language model, and is the first one-re. It's one of his first, I was not only. I think that he
+rank 1 sample 3: Hello, I'm a language model, a new people and a time. We will be able to get more people are in your child to the way to have
+rank 0 sample 0: Hello, I'm a language model, and is one of a person’t feel the story is the same, and a good time of their own way
+rank 0 sample 1: Hello, I'm a language model, but also a day and the same way.
+- What does
+- It is an important to be very more important
+rank 0 sample 2: Hello, I'm a language model, I am to be. It is a child.
+The child is it's is that I'm, but not that
+rank 0 sample 3: Hello, I'm a language model, a day.
+The story was still, a few of a time, he also, the way of a man,
+
+13TH PRINT - 260
+rank 1 sample 0: Hello, I'm a language model, and the idea of the idea of our students and a child’s in the children, the students to the students
+rank 1 sample 1: Hello, I'm a language model, a new study, a person who can help.
+|
+|
+|
+|C.
+|||||
+rank 1 sample 2: Hello, I'm a language model, I’t make them at a way.
+The course, we will be a few hours.’s
+rank 1 sample 3: Hello, I'm a language model, it is not a lot of a week.
+It is an example, and you’re the same thing.
+rank 0 sample 0: Hello, I'm a language model, I’s, I was an important: I’re it has been able to know. I’
+rank 0 sample 1: Hello, I'm a language model, we should not be in the one. The study of the article and there would be an average.
+I’
+rank 0 sample 2: Hello, I'm a language model, and I think that is an excellent. I can” or a student.
+- The student will also a good
+rank 0 sample 3: Hello, I'm a language model, it was one is a good and there is to see.
+This is the most of this is a few minutes of
+
+14TH PRINT - 280
+rank 1 sample 0: Hello, I'm a language model, I have been a new, I. It is that I am I can get a new way is a way to be
+rank 1 sample 1: Hello, I'm a language model, is not be a child.
+I is the students with a child, I can be very good health and I am
+rank 1 sample 2: Hello, I'm a language model, I was the time for more about this year, I was an important. It is not only. I was a way
+rank 1 sample 3: Hello, I'm a language model, it is not only. It is also a lot of the way, we are that it is not have a lot to
+rank 0 sample 0: Hello, I'm a language model, I was in the time, but in a part of the world's two days, the time in this one of these
+rank 0 sample 1: Hello, I'm a language model, we should be a person. We are the time, and a particular way that I are the world. If I don
+rank 0 sample 2: Hello, I'm a language model, a lot of a good-term, we’t’t know that I was an average,’
+rank 0 sample 3: Hello, I'm a language model, it is also used in a computer that is to get a number of a single week. It is a few days.
+
+15TH PRINT - 300
+rank 1 sample 0: Hello, I'm a language model, and the best.
+- "the "the name of a "re I have an example: "re I have
+rank 1 sample 1: Hello, I'm a language model, a person.
+What is not to a person's an important to do not have a new and they can have a
+rank 1 sample 2: Hello, I'm a language model, and I'm not have not, and that we have a good. I've a more about.
+" I have
+rank 1 sample 3: Hello, I'm a language model, I't just a. I think the child. The students. I have a way that I can think I have the
+rank 0 sample 0: Hello, I'm a language model, and I would be the time that this is, or what you are to you. It's is the right to get
+rank 0 sample 1: Hello, I'm a language model, I would not a good. We are the own. The work for you should do this, you are that I want
+rank 0 sample 2: Hello, I'm a language model, or, a child, the school, a school of a student, for a child. The school-time, I
+rank 0 sample 3: Hello, I'm a language model, the students have been the student in an important that is a student and.
+This is not a child is not like
+
+16TH PRINT - 320
+rank 1 sample 0: Hello, I'm a language model, the next is a different times. It can see that the next.
+What is that we see the next to the
+rank 1 sample 1: Hello, I'm a language model, we will be a.
+I think about a new ways to be an important to the next to you will you should
+rank 1 sample 2: Hello, I'm a language model, and the book is one's and I is the book is that is the first time. I is the first. I
+rank 1 sample 3: Hello, I'm a language model, I will see that we have to make a good and the first.
+The most people who have to the same way
+rank 0 sample 0: Hello, I'm a language model, and the students. I can learn a child in the classroom, the book and the school, or students will also can
+rank 0 sample 1: Hello, I'm a language model, is no other. I have no longer, but I have an event that is one thing that we have one. But
+rank 0 sample 2: Hello, I'm a language model, the most-to have not the same is that we are to be, but if we are in it.
+"
+rank 0 sample 3: Hello, I'm a language model, I have a person is the most likely to make an individual, which is that I“I’s and
+
+17TH PRINT - 340
+rank 1 sample 0: Hello, I'm a language model, or "t" that's "t- "The "A "A "I'm "" "A "I
+rank 1 sample 1: Hello, I'm a language model, but we can be more than a few different, I could be a good to be a person's and it is it
+rank 1 sample 2: Hello, I'm a language model, and the first time that we could have not have to be in the first thing to have been that the most of the
+rank 1 sample 3: Hello, I'm a language model, I've a few-t. A1. The first is the first is one's a second.
+The second
+rank 0 sample 0: Hello, I'm a language model, and the next year, and has no longer to see how it.
+If you will be you have an example and
+rank 0 sample 1: Hello, I'm a language model, I would not be in the way. The fact that is a more than I would make it is that, and that
+rank 0 sample 2: Hello, I'm a language model, or I don't know the first to have been the same, but, and I am I can say.
+"
+rank 0 sample 3: Hello, I'm a language model, the book to it is the text on the author in the word and the first book. It is the book, I
+
+18TH PRINT - 360
+rank 1 sample 0: Hello, I'm a language model, I know I have a little. We have to see the idea that we know that it was in the idea that we
+rank 1 sample 1: Hello, I'm a language model, we will be a lot of our own way. I could be able to the same time the world's first. It
+rank 1 sample 2: Hello, I'm a language model, I have been the idea I will have not to know that it.
+"I would have a lot of the same
+rank 1 sample 3: Hello, I'm a language model, and I think of my mind, I can be the same.
+A. I will be able to the same way
+rank 0 sample 0: Hello, I'm a language model, I have some of my own own students to read in my students, I can be in the best. I had not
+rank 0 sample 1: Hello, I'm a language model, and my students to do not to do to see the following: (e., we’re not just that they
+rank 0 sample 2: Hello, I'm a language model, but the other words. But I have a person, we’I have a very good way and I’
+rank 0 sample 3: Hello, I'm a language model, the word that is a word a good. We also a great way, I will be an essay. I will not
+
+
+HellaSwag accuracy: 2607/10042=0.2596 - 375
+HellaSwag accuracy: 2573/10042=0.2562 - 350
+HellaSwag accuracy: 2530/10042=0.2519 - 325
+HellaSwag accuracy: 2487/10042=0.2477 - 300
+HellaSwag accuracy: 2480/10042=0.2470 - 275
+HellaSwag accuracy: 2436/10042=0.2426 - 250
+HellaSwag accuracy: 2440/10042=0.2430 - 225
+HellaSwag accuracy: 2458/10042=0.2448 - 200
+HellaSwag accuracy: 2468/10042=0.2458 - 175
+HellaSwag accuracy: 2411/10042=0.2401 - 150
+HellaSwag accuracy: 2437/10042=0.2427 - 125
+HellaSwag accuracy: 2406/10042=0.2396 - 100
+HellaSwag accuracy: 2372/10042=0.2362 - 75
+HellaSwag accuracy: 2405/10042=0.2395 - 50
+HellaSwag accuracy: 2352/10042=0.2342 - 25
