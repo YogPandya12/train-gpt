@@ -80,9 +80,14 @@ This project demonstrates the reproduction of GPT-2, a decoder-only transformer 
 
 ### Step 380
 ![Step 380](images/step%20380.png)
+- The above screenshots show how the loss decreases as the model is being trained. Also, the sample questions during training demonstrate how the model improves as it continues to train.
+  
+**Logs**:
+   - [Training Logs](log.txt): The log file is recorded to showcase how the model responds during its training. Although the results are not very good because the model was not trained completely due to a lack of resources, there is clear improvement over time. Additionally, the code successfully streams the dataset to train the model.
 
-2. **Logs**:
-   - [Training Logs](log.txt): Includes sample outputs and HellaSwag evaluation results.
+- At the end of the log file, the model's accuracy is calculated at intervals on the evaluation dataset of HellaSwag, showing consistent improvement.
+
+- It can be inferred that the model could have been trained to achieve accuracy comparable to the GPT-2 124M model if sufficient resources were available. Unfortunately, due to resource limitations, I was unable to complete the model's training.
 
 ## References
 
