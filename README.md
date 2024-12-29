@@ -57,7 +57,8 @@ This project demonstrates the reproduction of GPT-2, a decoder-only transformer 
 ## Dataset and Training Challenges
 
 - The original GPT-2 dataset (WebText) was unavailable. The Fineweb dataset was used, sampling 10B tokens for training.
-- It is preferable to download the dataset before starting the training to make the process faster, but due to storage limitations, I was unable to download the entire dataset. Instead, I streamed shards, pre-tokenized them, and dynamically deleted the used shards while downloading the new batch.
+- It is preferable to download the dataset before starting the training to make the process faster.
+- But due to storage limitations, I was unable to download the entire dataset. Instead, I streamed shards, pre-tokenized them, and dynamically deleted the used shards while downloading the new batch.
 - Training estimates for 10B tokens were derived based on the Shakespeare dataset's token/step ratio.
 
 ## Evaluation
