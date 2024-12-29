@@ -1,4 +1,4 @@
-1ST PRINT - 20
+1ST PRINT - STEP 20
 rank 1 sample 0: Hello, I'm a language model,,..,, the, of. the of, the,,,, of of of,,,,
 rank 1 sample 1: Hello, I'm a language model, of of,,,,. the.. the drastic, the, the,,... the.,
 rank 1 sample 2: Hello, I'm a language model,,,..,,, the the the,, of, the. the, the the the.,,
@@ -8,7 +8,7 @@ rank 0 sample 1: Hello, I'm a language model, the for.,.,.. the,,..., and,, the,
 rank 0 sample 2: Hello, I'm a language model,..org,.,.,. the.. the the drastic.,..,,.,.
 rank 0 sample 3: Hello, I'm a language model,. the the the the the the the, of the, the,, the the,.,, the..
 
-2ND PRINT - 40
+2ND PRINT - STEP 40
 rank 1 sample 0: Hello, I'm a language model,, the...,, and the.
 .,,,,, and and to. of,,
 rank 1 sample 1: Hello, I'm a language model, and and.. and. the the the, the in., and,,, the the. the the,
@@ -20,7 +20,7 @@ rank 0 sample 2: Hello, I'm a language model, the. to. the, the,. the the, the,
 ,, the. of.,, the
 rank 0 sample 3: Hello, I'm a language model, the the. and,.,.. a,.,,,. of. the.., the the
 
-3RD PRINT - 60
+3RD PRINT - STEP 60
 rank 1 sample 0: Hello, I'm a language model,....
 ,, of the...
 .
@@ -46,7 +46,7 @@ rank 0 sample 2: Hello, I'm a language model,., in, and a,,....
 
 rank 0 sample 3: Hello, I'm a language model,...,.,.,, a..,,,.,, and,,.
 
-4TH PRINT - 80
+4TH PRINT - STEP 80
 rank 1 sample 0: Hello, I'm a language model, the of the, the, the. the. of the, the the the the of the to the of the the
 rank 1 sample 1: Hello, I'm a language model, a and the, of the. and, the. to the,.
 - the-.
@@ -66,7 +66,7 @@ rank 0 sample 2: Hello, I'm a language model,,. the, and to the the,,.,, and-.
 - the of the of the the
 rank 0 sample 3: Hello, I'm a language model, of the the and the, to the the a to the the the the the. the of the the, the of
 
-5TH PRINT - 100
+5TH PRINT - STEP 100
 rank 1 sample 0: Hello, I'm a language model,.’ of, of.. the that and. The.
 - the’ with.’ of
 rank 1 sample 1: Hello, I'm a language model, with that.
@@ -87,7 +87,7 @@ The, the that in of that of.
 -’ that to that
 rank 0 sample 3: Hello, I'm a language model,, and are with of of, to. This in. The in. The and. the with. The, with
 
-6TH PRINT - 120
+6TH PRINT - STEP 120
 rank 1 sample 0: Hello, I'm a language model, and. The first the new time and that. This. The first is it. In this are a new is the
 rank 1 sample 1: Hello, I'm a language model, it to the first is the time. It, the way, the new.
 The day of to that, and
@@ -103,7 +103,7 @@ rank 0 sample 3: Hello, I'm a language model, a time that. The time is this.<|en
 -
 The “In a time, in it
 
-7TH PRINT - 140
+7TH PRINT - STEP 140
 rank 1 sample 0: Hello, I'm a language model, and a own, we can be been not not the time, and more are a more to help to use of the
 rank 1 sample 1: Hello, I'm a language model, you’s the new.“In the most a new way of the world of a child of the  
 rank 1 sample 2: Hello, I'm a language model, and the first and it was it.<|endoftext|>The same and more.
@@ -116,7 +116,7 @@ rank 0 sample 1: Hello, I'm a language model, the people of the same and other a
 rank 0 sample 2: Hello, I'm a language model, it is, and more as the other and not not to a own or the new. The same health is it was
 rank 0 sample 3: Hello, I'm a language model, a more to have a new or other and you may be the health is not you are not you are the people can
 
-8TH PRINT - 160
+8TH PRINT - STEP 160
 rank 1 sample 0: Hello, I'm a language model, the own system of the other. It's time to the other, the own, as an more than the world,
 rank 1 sample 1: Hello, I'm a language model, a year, the own, but you have been the own, and is the world, with a small. It is
 rank 1 sample 2: Hello, I'm a language model, the time of a few.
@@ -128,7 +128,7 @@ rank 0 sample 1: Hello, I'm a language model, and you have been a new way of it 
 rank 0 sample 2: Hello, I'm a language model, it is you are, we have to the world and you do, he is in the life and not have to do
 rank 0 sample 3: Hello, I'm a language model, but it is in a few or they are in one, and they are to do to have to be a person and
 
-9TH PRINT - 180
+9TH PRINT - STEP 180
 rank 1 sample 0: Hello, I'm a language model, and is the body.
 -term.
 This is the time.
@@ -148,7 +148,7 @@ rank 0 sample 1: Hello, I'm a language model, a child, the other people are the 
 rank 0 sample 2: Hello, I'm a language model, and more time. It may be a time to do not have the study is a year, they need to be more
 rank 0 sample 3: Hello, I'm a language model, you are that we are the child to be more a new people can be the other people, they are the other health
 
-10TH PRINT - 200
+10TH PRINT - STEP 200
 rank 1 sample 0: Hello, I'm a language model, a single week, they are a good of the information, but not be an important and if we have sure that you
 rank 1 sample 1: Hello, I'm a language model, and, and the children, but, but, it would be able to the children, we are also have sure of
 rank 1 sample 2: Hello, I'm a language model, the other example.
@@ -172,7 +172,7 @@ rank 0 sample 2: Hello, I'm a language model, a few people, it will be a small y
 -s
 rank 0 sample 3: Hello, I'm a language model, or, you will not not a more important or it is the example, and a new and the information, it,
 
-11TH PRINT - 220
+11TH PRINT - STEP 220
 rank 1 sample 0: Hello, I'm a language model, it can't be. You’re to your child’t, you know the world. It’
 rank 1 sample 1: Hello, I'm a language model, a number of a few years of an example. The new year, it was a new part of a number of the
 rank 1 sample 2: Hello, I'm a language model, and the most of the time. The best.
@@ -185,7 +185,7 @@ rank 0 sample 1: Hello, I'm a language model, the two-like a day (the year, the 
 rank 0 sample 2: Hello, I'm a language model, it was very good of one, and they’t not, to have been able to you are to know,
 rank 0 sample 3: Hello, I'm a language model, we will make up, it will need to your best to have no other things and to have to be able to make
 
-12TH PRINT - 240
+12TH PRINT - STEP 240
 rank 1 sample 0: Hello, I'm a language model, I is I't want to be. And the idea of a way to see the same thing and I think that I
 rank 1 sample 1: Hello, I'm a language model, the story of the same time of it's book of his own. I’s book of, the book in
 rank 1 sample 2: Hello, I'm a language model, and is the first one-re. It's one of his first, I was not only. I think that he
@@ -199,7 +199,7 @@ The child is it's is that I'm, but not that
 rank 0 sample 3: Hello, I'm a language model, a day.
 The story was still, a few of a time, he also, the way of a man,
 
-13TH PRINT - 260
+13TH PRINT - STEP 260
 rank 1 sample 0: Hello, I'm a language model, and the idea of the idea of our students and a child’s in the children, the students to the students
 rank 1 sample 1: Hello, I'm a language model, a new study, a person who can help.
 |
@@ -219,7 +219,7 @@ rank 0 sample 2: Hello, I'm a language model, and I think that is an excellent. 
 rank 0 sample 3: Hello, I'm a language model, it was one is a good and there is to see.
 This is the most of this is a few minutes of
 
-14TH PRINT - 280
+14TH PRINT - STEP 280
 rank 1 sample 0: Hello, I'm a language model, I have been a new, I. It is that I am I can get a new way is a way to be
 rank 1 sample 1: Hello, I'm a language model, is not be a child.
 I is the students with a child, I can be very good health and I am
@@ -230,7 +230,7 @@ rank 0 sample 1: Hello, I'm a language model, we should be a person. We are the 
 rank 0 sample 2: Hello, I'm a language model, a lot of a good-term, we’t’t know that I was an average,’
 rank 0 sample 3: Hello, I'm a language model, it is also used in a computer that is to get a number of a single week. It is a few days.
 
-15TH PRINT - 300
+15TH PRINT - STEP 300
 rank 1 sample 0: Hello, I'm a language model, and the best.
 - "the "the name of a "re I have an example: "re I have
 rank 1 sample 1: Hello, I'm a language model, a person.
@@ -244,7 +244,7 @@ rank 0 sample 2: Hello, I'm a language model, or, a child, the school, a school 
 rank 0 sample 3: Hello, I'm a language model, the students have been the student in an important that is a student and.
 This is not a child is not like
 
-16TH PRINT - 320
+16TH PRINT - STEP 320
 rank 1 sample 0: Hello, I'm a language model, the next is a different times. It can see that the next.
 What is that we see the next to the
 rank 1 sample 1: Hello, I'm a language model, we will be a.
@@ -258,7 +258,7 @@ rank 0 sample 2: Hello, I'm a language model, the most-to have not the same is t
 "
 rank 0 sample 3: Hello, I'm a language model, I have a person is the most likely to make an individual, which is that I“I’s and
 
-17TH PRINT - 340
+17TH PRINT - STEP 340
 rank 1 sample 0: Hello, I'm a language model, or "t" that's "t- "The "A "A "I'm "" "A "I
 rank 1 sample 1: Hello, I'm a language model, but we can be more than a few different, I could be a good to be a person's and it is it
 rank 1 sample 2: Hello, I'm a language model, and the first time that we could have not have to be in the first thing to have been that the most of the
@@ -271,7 +271,7 @@ rank 0 sample 2: Hello, I'm a language model, or I don't know the first to have 
 "
 rank 0 sample 3: Hello, I'm a language model, the book to it is the text on the author in the word and the first book. It is the book, I
 
-18TH PRINT - 360
+18TH PRINT - STEP 360
 rank 1 sample 0: Hello, I'm a language model, I know I have a little. We have to see the idea that we know that it was in the idea that we
 rank 1 sample 1: Hello, I'm a language model, we will be a lot of our own way. I could be able to the same time the world's first. It
 rank 1 sample 2: Hello, I'm a language model, I have been the idea I will have not to know that it.
