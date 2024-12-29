@@ -59,7 +59,8 @@ This project demonstrates the reproduction of GPT-2, a decoder-only transformer 
 - The original GPT-2 dataset (WebText) was unavailable. The Fineweb dataset was used, sampling 10B tokens for training.
 - It is preferable to download the dataset before starting the training to make the process faster.
 - But due to storage limitations, I was unable to download the entire dataset. Instead, I streamed shards, pre-tokenized them, and dynamically deleted the used shards while downloading the new batch.
-- Training estimates for 10B tokens were derived based on the Shakespeare dataset's token/step ratio.
+- Training steps must be estimated in such a way that the model trains on 10 billion tokens. The steps can be derived based on the token-to-step ratio of the Shakespeare dataset, which was used to verify the training pipeline.
+- Also, the GPT-2 paper discusses the warmup learning rate over 375 million tokens. The steps for the warmup learning rate must be calculated in a similar way to compute 375M tokens as well.
 
 ## Evaluation
 
@@ -81,7 +82,7 @@ This project demonstrates the reproduction of GPT-2, a decoder-only transformer 
 
 ### Step 380
 ![Step 380](images/step%20380.png)
-- The above screenshots show how the loss decreases as the model is being trained. Also, the sample questions during training demonstrate how the model improves as it continues to train.
+- The above screenshots show how the loss decreases as the model is being trained. Also, the sample review during training demonstrate how the model improves as it continues to train.
   
 **Logs**:
    - [Training Logs](log.txt): The log file is recorded to showcase how the model responds during its training. Although the results are not very good because the model was not trained completely due to a lack of resources, there is clear improvement over time. Additionally, the code successfully streams the dataset to train the model.
