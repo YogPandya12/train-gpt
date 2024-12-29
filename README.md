@@ -31,7 +31,7 @@ This project demonstrates the reproduction of GPT-2, a decoder-only transformer 
    - Used tokenization via `tiktokens` for generating samples.
    - Tokens selected based on top-k probabilities, with compatibility across CUDA, MPS, or CPU devices.
 
-## Training the Model
+## Training computation improvement
 
 1. **Dataset Preparation**:
    - Initial testing conducted with the Shakespeare dataset.
